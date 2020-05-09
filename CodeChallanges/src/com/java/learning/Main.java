@@ -84,6 +84,56 @@ public class Main {
         System.out.println("**************************");
 
         /*do while loop -WhileDoWhileClass*/
+
+        int number1 = 45 % 60;
+        int number2 = 45 / 60;
+
+        System.out.println(number1 + " " + number2);
+
+        /*Decimal Comparator*/
+        DecimalComparator.areEqualByThreeDecimalPlaces(3.0, 3.0);
+        /*EqualSumChecker*/
+        EqualSumChecker.hasEqualSum(1, 0, 1);
+        /*Teen Number Checker*/
+        TeenNumberChecker.hasTeen(12,4,12);
+        TeenNumberChecker.isTeen(4);
+        /*Seconds & Minutes Challenge*/
+
+        System.out.println(HourMinuteSecond.getDurationString(150, 45));
+        System.out.println(HourMinuteSecond.getDurationString(3567L));
+        System.out.println(HourMinuteSecond.getDurationString(-34));
+        /*Area Calculator*/
+        System.out.println(AreaCalculator.area(15));
+        System.out.println(AreaCalculator.area(10,10));
+        System.out.println(AreaCalculator.area(-2));
+        System.out.println(AreaCalculator.area(-1,0));
+        /*Conversion*/
+        long hours = 3600 / 60;
+        long remainingmin = 3600 % 60;
+        long days = hours / 24;
+        long year = days / 365;
+        long remainsdays = days % 365;
+
+        System.out.println(hours + "  " + remainingmin + "  " + days + " " + year + "  "+ remainsdays );
+        /*Minutes2Days2Hours*/
+        Minutes2Years2Days.printYearAndDays(1440);
+        /*Equality Printer*/
+        EqualityPrinter.printEqual(1,1,1);
+        EqualityPrinter.printEqual(-1,1,1);
+        EqualityPrinter.printEqual(1,2,1);
+        EqualityPrinter.printEqual(2,1,1);
+        EqualityPrinter.printEqual(2,1,2);
+        EqualityPrinter.printEqual(1,1,2);
+        EqualityPrinter.printEqual(1,2,3);
+        /*Playing Cat*/
+        System.out.println(PlayingCat.isCatPlaying(true,10));
+        System.out.println(PlayingCat.isCatPlaying(false,36));
+        System.out.println(PlayingCat.isCatPlaying(false,35));
+        System.out.println(PlayingCat.isCatPlaying(true,45));
+
+
+
+    }
     }
 
-}
+
