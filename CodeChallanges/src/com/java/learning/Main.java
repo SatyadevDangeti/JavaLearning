@@ -144,9 +144,35 @@ public class Main {
 //        System.out.println(FirstAndLastDigitSum.sumFirstAndLastDigit(010));
 //        /*Loop Sum*/
 //        System.out.println(FirstAndLastDigitSum.loopSum(010));
-          /*Even Sum Challenge*/
-        System.out.println(EvenDigitSum.getEvenDigitSum(458));
+//          /*Even Sum Challenge*/
+//        System.out.println(EvenDigitSum.getEvenDigitSum(458));
+//         /* Shared Digit*/
+//        System.out.println(SharedDigit.hasSharedDigit(19,99));
+//        /*Last Digit Checker*/
+//        System.out.println(LastDigitChecker.hasSameLastDigit(11,42,21));
+//        /* Greatest Common Divisor*/
+//        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(56,12));
+//          /*Factors printer*/
+//        FactorPrinter.printFactors(21);
+//          /*Perfect Number*/
+//        System.out.println(PerfectNumber.isPerfectNumber(28));
+//          /*Number2Word*/
+//        System.out.println(NumberToWords.reverse(5200));
+//        System.out.println(NumberToWords.getDigitCount(1000));
+//        NumberToWords.numberToWords(5430);
+//        /*Flour Packer challenge*/
+//        System.out.println(FlourPacker.canPack(1,0,4));
+//         /*Largest Prime Number*/
+//        System.out.println(LargestPrime.getLargestPrime(45));
+//       System.out.println(LargestPrime.getLargestPrimeNumber(45));
+//         /*Diagonal Star*/
+//        DiagonalStar.printSquareStar(5);
+//         /*Min Max Number with User Input*/
+//        MinMaxNumber.minMaxNumber();
+//        /*Input Calculator*/
+//        InputCalculator.inputThenPrintSumAndAverage();
+
     }
-    }
+}
 
 
