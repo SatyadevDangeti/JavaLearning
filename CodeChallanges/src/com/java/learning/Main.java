@@ -1,11 +1,19 @@
 package com.java.learning;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Scanner;
+
+import com.java.coding.Animal;
+import com.java.coding.Hippo;
+import com.java.coding.InterfaceDemo;
+
+
+
+import java.util.*;
+
 
 public class Main {
-//    private static Scanner scan = new Scanner(System.in);
+
+    private static Scanner scan = new Scanner(System.in);
+    private static ArrayList<Album> albums = new ArrayList<Album>();
     public static void main(String[] args) {
 
 //        /*Positive Negative Zero Challenge*/
@@ -290,9 +298,105 @@ public class Main {
 //        System.out.println(hq[3].id);
 //        System.out.println(hq[4].id);
 
+ /**************** Code checks and analysis **************************************/
+//  int month_days[] = new int[12]; // int num[],num1[],num2[];
+//  int [] month_days1 = new int[12];  // int [] num,num1,num2;
+//  int month_days2[] = {31,28,31,30,31,30,31,31,30,31,30,31};
+//  int [] copy = (int[]) month_days2.clone();
+//        System.arraycopy(copy,1,month_days1,0,6);
+//        System.out.println(Arrays.toString(copy));
+//
+//        char[] greet = { 'h','e','l','l','o' };
+//        char[] cuss = greet; // cuss holds the same reference
+//        cuss[4] = '!'; // Use reference to change an element
+//        System.out.println(greet);
+//        int x = 10;
+//        int y = x;
+//
+//        System.out.println(x +" + " + y);
+//        y = y +x;
+//        System.out.println(x +" + " + y);
+//        Point p = new Point(1, 2);
+//        Point q = p;
+//        System.out.println(p.x); // Print out the x coordinate of p: 1.0
+//        q.x = 13; // Now change the X coordinate of q
+//        System.out.println(p.x); // Print out p.x again; this time it is 13.0
+//         /*Grocery List ArrayList Challenge*/
+//          GroceryList groceryList = new GroceryList();
+//          groceryList.inputGroceryList();
+//        /* Mobile phone-Contact challenge*/
+//        ArrayList<Contact> contact = new ArrayList<>();
+//        MobilePhone mobilePhone = new MobilePhone(123589909,contact);
+//        mobilePhone.optionSelection();
+         /*FizzBuzz Challenge*/
+//        System.out.println("Enter no of lines: " );
+//        int n = scan.nextInt();
+//
+//        scan.nextLine();
+//        for(int i = 1; i <= n; i++){
+//            String test = "";
+//            test += (i % 3) == 0 ? "fizz" : "";
+//            test += (i % 5) == 0 ? "buzz" : "";
+//            System.out.println(!test.isEmpty() ? test : i);
+//        }
+         /* Bank Challenge with Arraylists and Boxing and Unboxing*/
+
+//        Bank bank = new Bank("Indian Bank");
+//        bank.addBranch("Madhura Nagar");
+//        bank.addCustomer("Madhura Nagar", "Satyadev", 98942498.84);
+//        bank.addCustomerTransaction("Madhura Nagar","Satyadev", 12937823023.32);
+//        System.out.println("Customer Details:");
+//        bank.listCustomers("Madhura Nagar",true);
+//        /* Autoboxing Compare test*/
+//        Integer one = new Integer(1);
+//        Integer anotherOne = new Integer(1);
+//        System.out.println(" one == anotherOne: " + (one == anotherOne));
+
+//        System.out.println("equals : one to anotherOne = " + (one.equals(anotherOne)));
+        /*Mixing object and primitive in equality and relational operator*/
+//         Integer arg = null;
+//         int x = arg;
+//        System.out.println(x);
+//        Animal a = new Animal("Rhino");
+//        a.behavior();
+//        a.testing();
+//        Animal b = new Hippo("Rodio");
+//        b.behavior();
+//        b.testing();
+//        Hippo h = new Hippo("Bulky");
+//        System.out.println("Hippo Name : " + h.getName());
+//        h.behavior();
+//        h.testing();
+//        h.superUsage();
+/*
+        InterfaceDemo demo1 = new InterfaceDemo();
+        demo1.show();*/
+        /*Linked list Playlist Demo*/
+/*         Album album = new Album("National Anthem", "India");
+         album.addSong("Jana Gana Mana",0.52);
+         album.addSong("Vandemataram",0.66);
+         album.addSong("Sare Jahase Acha", 1.30);
+        albums.add(album);
+
+        album = new Album("Devotional", "Telugu");
+        album.addSong("Jaya Jaya Rama",2.52);
+        album.addSong("Hanuman Chalisa",5.66);
+        album.addSong("Sivathandava stotram", 10.30);
+        album.addSong("RamaRaksha stotram", 12.30);
+        album.addSong("Vishnu Sahasranamam", 15.30);
+        albums.add(album);
+        LinkedList<Song> playlist = new LinkedList<Song>();
+         albums.get(0).addSongToPlaylist("Jana Gana Mana",playlist);
+         albums.get(1).addSongToPlaylist("Hanuman Chalisa", playlist);
+         albums.get(0).addSongToPlaylist("Vandemataram", playlist);
+         albums.get(1).addSongToPlaylist("Sivathandava stotram", playlist);
+         albums.get(1).addSongToPlaylist(4,playlist);
+        albums.get(1).addSongToPlaylist(5,playlist);
+
+         Album.play(playlist);*/
+       /* Interfaces demo*/
 
     }
-
 }
 
 

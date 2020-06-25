@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d0f4614-11a0-4e92-8f56-c3a95904e733" name="Default Changelist" comment="New challenges">
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/ArrayListsExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/learning/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3SixT/src/main/resources/frontend/decom3sixT/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decom3sixty/src/main/java/com/decom3sixty/administration/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/ArrayChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/ArrayChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Books.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EqualityPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EqualityPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EvenDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/EvenDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FactorPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FactorPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FirstAndLastDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FirstAndLastDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FlourPacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/FlourPacker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/HeapQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/HeapQuiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/HourMinuteSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/HourMinuteSecond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/InchCentimeterFeetConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/InchCentimeterFeetConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/InputCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/InputCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/IsEvenNumberValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/IsEvenNumberValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LargestPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LargestPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LastDigitChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LastDigitChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LeapYearCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/LeapYearCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MegaBytesConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MegaBytesConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MinMaxNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MinMaxNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MinimumElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/MinimumElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Minutes2Years2Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Minutes2Years2Days.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberInWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberOfDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PlayingCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PlayingCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PositiveNegativeZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/PositiveNegativeZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SharedDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SpeedConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SpeedConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SumOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SumOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SwitchValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/SwitchValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/TeenNumberChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/TeenNumberChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/forLoopTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallanges/com/java/learning/forLoopTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/learning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/learning/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Decom3sixty/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/src/main/java/com/learning/decom3sixty/Decom3sixtyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/src/main/java/com/learning/decom3sixty/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Decom3sixty/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decom3sixty/src/test/java/com/learning/decom3sixty/Decom3sixtyApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bBbGavMKnQyI49F2DN0oELkjKO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.learning.Main" />
+      <module name="CodeChallanges" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0f4614-11a0-4e92-8f56-c3a95904e733" name="Default Changelist" comment="" />
+      <created>1588108338130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588108338130</updated>
+      <workItem from="1588108340634" duration="8900000" />
+      <workItem from="1588154057737" duration="7906000" />
+      <workItem from="1588417707653" duration="210000" />
+      <workItem from="1588933566658" duration="13617000" />
+      <workItem from="1589319733473" duration="1834000" />
+      <workItem from="1589571301807" duration="39766000" />
+      <workItem from="1590011300062" duration="7427000" />
+      <workItem from="1590141698049" duration="16257000" />
+      <workItem from="1590612457907" duration="99000" />
+      <workItem from="1591176977360" duration="439000" />
+      <workItem from="1591292745831" duration="42000" />
+      <workItem from="1591522234151" duration="6642000" />
+      <workItem from="1591712400146" duration="6561000" />
+      <workItem from="1591724485647" duration="7093000" />
+      <workItem from="1591868086068" duration="15316000" />
+      <workItem from="1592217026810" duration="7810000" />
+      <workItem from="1592418857152" duration="10000" />
+      <workItem from="1592476757278" duration="2148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="New challenges" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2291" y="445" key="#Notifications" timestamp="1592476783050">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="2291" y="445" key="#Notifications/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592476783050" />
+    <state x="1888" y="156" key="#Project_Structure" timestamp="1591868952266">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="1888" y="156" key="#Project_Structure/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591868952266" />
+    <state x="2213" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1592479202043">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="2213" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592479202043" />
+    <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588992353857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1588992353857" />
+    <state x="227" y="25" key="CommitChangelistDialog2" timestamp="1590235103379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="227" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590235103379" />
+    <state width="976" height="279" key="GridCell.Tab.0.bottom" timestamp="1592230507352">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1182" height="376" key="GridCell.Tab.0.bottom/0.0.1440.820/1440.58.1920.1057/-1920.-25.1920.1057@0.0.1440.820" timestamp="1589321578132" />
+    <state width="585" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590232866728" />
+    <state width="1456" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592225144561" />
+    <state width="585" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590235065980" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.797/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1588114740183" />
+    <state width="585" height="304" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590445837507" />
+    <state width="976" height="279" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1592230507352" />
+    <state width="663" height="279" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1591720849703" />
+    <state width="1668" height="376" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1588937870718" />
+    <state width="1668" height="376" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.23.1920.1057@1920.0.1920.1080" timestamp="1588937613070" />
+    <state width="976" height="279" key="GridCell.Tab.0.center" timestamp="1592230507351">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1182" height="376" key="GridCell.Tab.0.center/0.0.1440.820/1440.58.1920.1057/-1920.-25.1920.1057@0.0.1440.820" timestamp="1589321578131" />
+    <state width="585" height="225" key="GridCell.Tab.0.center/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590232866726" />
+    <state width="1456" height="279" key="GridCell.Tab.0.center/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592225144559" />
+    <state width="585" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590235065979" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.797/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1588114740181" />
+    <state width="585" height="304" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590445837506" />
+    <state width="976" height="279" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1592230507351" />
+    <state width="663" height="279" key="GridCell.Tab.0.center/0.23.1440.877/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1591720849702" />
+    <state width="1668" height="376" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1588937870716" />
+    <state width="1668" height="376" key="GridCell.Tab.0.center/1920.0.1920.1080/0.23.1920.1057@1920.0.1920.1080" timestamp="1588937613068" />
+    <state width="976" height="279" key="GridCell.Tab.0.left" timestamp="1592230507351">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1182" height="376" key="GridCell.Tab.0.left/0.0.1440.820/1440.58.1920.1057/-1920.-25.1920.1057@0.0.1440.820" timestamp="1589321578130" />
+    <state width="585" height="225" key="GridCell.Tab.0.left/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590232866725" />
+    <state width="1456" height="279" key="GridCell.Tab.0.left/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592225144558" />
+    <state width="585" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590235065978" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.797/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1588114740180" />
+    <state width="585" height="304" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590445837506" />
+    <state width="976" height="279" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1592230507351" />
+    <state width="663" height="279" key="GridCell.Tab.0.left/0.23.1440.877/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1591720849700" />
+    <state width="1668" height="376" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1588937870715" />
+    <state width="1668" height="376" key="GridCell.Tab.0.left/1920.0.1920.1080/0.23.1920.1057@1920.0.1920.1080" timestamp="1588937613067" />
+    <state width="976" height="279" key="GridCell.Tab.0.right" timestamp="1592230507352">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1182" height="376" key="GridCell.Tab.0.right/0.0.1440.820/1440.58.1920.1057/-1920.-25.1920.1057@0.0.1440.820" timestamp="1589321578132" />
+    <state width="585" height="225" key="GridCell.Tab.0.right/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590232866727" />
+    <state width="1456" height="279" key="GridCell.Tab.0.right/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592225144560" />
+    <state width="585" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590235065980" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.797/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1588114740182" />
+    <state width="585" height="304" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590445837507" />
+    <state width="976" height="279" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1592230507352" />
+    <state width="663" height="279" key="GridCell.Tab.0.right/0.23.1440.877/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1591720849702" />
+    <state width="1668" height="376" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1588937870717" />
+    <state width="1668" height="376" key="GridCell.Tab.0.right/1920.0.1920.1080/0.23.1920.1057@1920.0.1920.1080" timestamp="1588937613069" />
+    <state width="1460" height="376" key="GridCell.Tab.1.bottom" timestamp="1591882672246">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state width="585" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590229536084" />
+    <state width="1460" height="376" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591882672246" />
+    <state width="585" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590234848094" />
+    <state width="585" height="304" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590445837509" />
+    <state width="1460" height="376" key="GridCell.Tab.1.center" timestamp="1591882672245">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state width="585" height="304" key="GridCell.Tab.1.center/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590229536083" />
+    <state width="1460" height="376" key="GridCell.Tab.1.center/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591882672245" />
+    <state width="585" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590234848093" />
+    <state width="585" height="304" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1590445837508" />
+    <state width="1460" height="376" key="GridCell.Tab.1.left" timestamp="1591882672244">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state width="585" height="304" key="GridCell.Tab.1.left/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590229536081" />
+    <state width="1460" height="376" key="GridCell.Tab.1.left/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591882672244" />
+    <state width="585" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590234848092" />
+    <state width="585" height="304" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1590445837508" />
+    <state width="1460" height="376" key="GridCell.Tab.1.right" timestamp="1591882672245">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state width="585" height="304" key="GridCell.Tab.1.right/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1590229536083" />
+    <state width="1460" height="376" key="GridCell.Tab.1.right/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591882672245" />
+    <state width="585" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590234848093" />
+    <state width="585" height="304" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1590445837509" />
+    <state x="335" y="156" width="830" height="587" key="NewModule_or_Project.wizard" timestamp="1591200288130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="335" y="156" width="830" height="587" key="NewModule_or_Project.wizard/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1591200288130" />
+    <state x="2099" y="293" key="RollbackChangesDialog" timestamp="1588113725588">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="2099" y="293" key="RollbackChangesDialog/0.23.1440.797/1440.35.1920.1080/-1920.-25.1920.1057@1440.35.1920.1080" timestamp="1588113725588" />
+    <state x="1888" y="156" key="SettingsEditor" timestamp="1592479026345">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="1888" y="156" key="SettingsEditor/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1592479026345" />
+    <state x="336" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590612552690" />
+    <state x="524" y="246" width="535" height="510" key="extract.method.dialog" timestamp="1589660984175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="2138" y="330" key="extract.method.dialog/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1588938054901" />
+    <state x="524" y="246" width="535" height="510" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1589660984175" />
+    <state x="1829" y="197" key="new project wizard" timestamp="1591292789406">
+      <screen x="1440" y="35" width="1920" height="1080" />
+    </state>
+    <state x="176" y="135" key="new project wizard/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@0.0.1440.900" timestamp="1591200250943" />
+    <state x="1829" y="197" key="new project wizard/0.0.1440.900/1440.35.1920.1080/-1920.-48.1920.1080@1440.35.1920.1080" timestamp="1591292789406" />
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1589586423993">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1589586423993" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589642431674">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1589642431674" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/learning/FlourPacker.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/learning/FactorPrinter.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/learning/DiagonalStar.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/learning/DiagonalStar.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/learning/DiagonalStar.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeChallanges$Main.ic" NAME="Main Coverage Results" MODIFIED="1588155959393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
